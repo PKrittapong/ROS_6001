@@ -23,7 +23,7 @@
                 <odometryFrame>odom</odometryFrame>
                 <robotBaseFrame>base_footprint</robotBaseFrame>
                 <odometrySource>1</odometrySource>
-                <!-- <publishWheelTF>true</publishWheelTF> -->
+                <publishWheelTF>true</publishWheelTF>
                 <publishOdom>true</publishOdom>
                 <publishWheelJointState>true</publishWheelJointState>
                 <legacyMode>false</legacyMode>
